@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# About me
+
+**My username is `alij8i`**, where `j8i` is a shorthand code that means `Jafarabadi`.
